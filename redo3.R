@@ -560,41 +560,6 @@ ggsave("out/fig xxx immune response.pdf", width = 5, height = 5)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-################################################################################
-#################### more ###################################################################
-################################################################################
-
-
-
-
-
-
-
-
-## TODO
-# take s2e , copy, make stress response
-# take s2f , copy, make stress response
-# take s2f , copy, make stress response  with background as well
-
-# take s2f , copy, make immune response  with background as well
-
-
-
-
-
-
 ################################################################################
 ######## fig xxxxx - scatter plot, immune response genes, with background ######
 ################################################################################
